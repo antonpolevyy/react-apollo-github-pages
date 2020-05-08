@@ -18,9 +18,10 @@ function App() {
         >
           Learn React
         </a>
+        <h1>... And create your OWN React App today!!</h1>
       </header>
     </div>
-  );
+  )
 }
 
 export default App;
