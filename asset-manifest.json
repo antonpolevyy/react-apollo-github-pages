@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-apollo-github-pages/static/css/main.5f361e03.chunk.css",
+    "main.js": "/react-apollo-github-pages/static/js/main.e362975e.chunk.js",
+    "main.js.map": "/react-apollo-github-pages/static/js/main.e362975e.chunk.js.map",
+    "runtime-main.js": "/react-apollo-github-pages/static/js/runtime-main.b5d4ea47.js",
+    "runtime-main.js.map": "/react-apollo-github-pages/static/js/runtime-main.b5d4ea47.js.map",
+    "static/js/2.74152bd0.chunk.js": "/react-apollo-github-pages/static/js/2.74152bd0.chunk.js",
+    "static/js/2.74152bd0.chunk.js.map": "/react-apollo-github-pages/static/js/2.74152bd0.chunk.js.map",
+    "index.html": "/react-apollo-github-pages/index.html",
+    "precache-manifest.40ce402dc80530351b35b5fa9c2cba40.js": "/react-apollo-github-pages/precache-manifest.40ce402dc80530351b35b5fa9c2cba40.js",
+    "service-worker.js": "/react-apollo-github-pages/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/react-apollo-github-pages/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.74152bd0.chunk.js.LICENSE.txt": "/react-apollo-github-pages/static/js/2.74152bd0.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react-apollo-github-pages/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b5d4ea47.js",
+    "static/js/2.74152bd0.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.e362975e.chunk.js"
+  ]
+}
